@@ -1,0 +1,6 @@
+# Needed libraries
+pandas
+sqlalchemy
+plotly
+streamlit
+bs4
